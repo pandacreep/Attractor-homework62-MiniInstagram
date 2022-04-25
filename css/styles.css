@@ -1,0 +1,38 @@
+body, html {
+    margin: 0;
+}
+
+body {
+    background-color: azure;
+}
+
+#app {
+    width: 100%;
+    background-color: azure;
+}
+
+.container-center {
+    width: 1000px;
+    height: 40px;
+    margin: 0 auto;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.navbar{
+    background:#2e42b6;
+}
+
+.nav-link , .navbar-brand{
+    color: #f4f4f4;
+    cursor: pointer;
+}
+.nav-link{
+    margin-right: 1em !important;
+}
+
+.nav-link:hover, .navbar-brand:hover{
+	color: #c7cef5;
+}

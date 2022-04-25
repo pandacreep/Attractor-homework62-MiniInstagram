@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+/js/test.js
+/css/bootstrap.min.css.map
+
+### VS Code ###
+.vscode/
